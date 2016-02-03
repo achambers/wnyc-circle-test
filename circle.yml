@@ -11,4 +11,4 @@ deployment:
   production:
     branch: master
     commands:
-      - ember deploy production
+      - ember deploy production --verbose
